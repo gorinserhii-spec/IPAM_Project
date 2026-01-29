@@ -27,3 +27,8 @@ A lightweight web-based inventory system for Network Engineers. Built with PHP, 
 2. Import the database schema from `schema.sql`.
 3. Update `db.php` with your database credentials.
 4. Place files in `/var/www/html/`.
+
+## 👤 Author
+**Serhii Gorin**
+* Junior Network Engineer / System Administrator
+* [My LinkedIn Profile](https://www.linkedin.com/in/gorinserhii/)
